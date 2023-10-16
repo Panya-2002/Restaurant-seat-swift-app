@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "398156660881",
+    "firebase_url": "https://sfc2-72158-default-rtdb.firebaseio.com",
+    "project_id": "sfc2-72158",
+    "storage_bucket": "sfc2-72158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398156660881:android:2070e6c61c653762bf7f30",
+        "android_client_info": {
+          "package_name": "com.example.sfc2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398156660881-6bvgqu0eeoepu67upto1as0dp44qb1ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAorR0QaUA2W1Zti49ClIM7Zs641-LGuxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398156660881-6bvgqu0eeoepu67upto1as0dp44qb1ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
