@@ -5,7 +5,7 @@ In the vibrant world of gastronomy, where culinary delights await at every corne
 
 ## The Evolution of Dining
 
-Restaurants have long been hubs of joy, celebration, and exquisite flavors. However, the growing popularity of dining out brought challenges – the frustration of arriving at your favorite eatery only to find all tables occupied. That's where our innovative solution comes in.
+Restaurants have long been hubs of joy, celebration, and exquisite flavors. However, the growing popularity of dining out brought challenges – the frustration of arriving at your favorite eatery only to find  tables occupied. That's where our innovative solution comes in.
 
 ## Your Culinary Adventure Awaits
 
@@ -16,6 +16,7 @@ In response to the evolving needs of food enthusiasts, we present our intuitive 
    - **Menu Page:** Explore a vast array of cuisines and dishes, all neatly categorized.
    - **Branch Locator:** Discover our restaurant branches at your convenience.
    - **Interactive Seat Layout:** Choose your preferred seating arrangement effortlessly.
+     
   
 ### 2. **Simplified Booking Process**
    - **Seat Booking Form:** Reserve your table with just a few taps, ensuring your spot is secured.
